@@ -1,0 +1,6 @@
+{
+  "name": "WeChat",
+  "description": "Social networking, instant messaging and communication platform featuring real-time chats, status stories, social feed, calling, and rich media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
